@@ -1,0 +1,6 @@
+{
+  "name": "Remote-text",
+  "tagline": "This plugin allows you to get every text from everywhere by using simple shortcoding !",
+  "body": "### **What it does ?**\r\nThis plugin allows you to get every text(-file) from everywhere by using simple shortcoding !\r\n\r\n### **How it works ?**\r\nAfter insalling it is very easy to handle by just using the following shortcode: \r\n`[RemoteFile url='<FILE URL HERE !>']`\r\n\r\n### **How to install ?**\r\nInstalling Wordpress plugins is very easy:\r\n1.  **Download** the **latest .zip-file** from the \"Download\"-directory.\r\n1.  Go to **http://YourDomain.com/wp-admin/plugin-install.php?tab=upload**\r\n1.  Select the downloaded file and upload it to your wordpress-installation.\r\n1.  **Activate the plugin.**\r\n1.  Have fun using the shortcode !",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
