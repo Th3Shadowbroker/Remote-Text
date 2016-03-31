@@ -8,7 +8,7 @@ After installing it is very easy to handle by just using the following shortcode
 ### **How to install ?**
 Installing Wordpress plugins is very easy:
 
-1.**Download** the **latest .zip-file** from the "Download"-directory.
+1.**Download** the **latest .zip-file** from the "Download"-directory or http://bit.ly/RemoteText.
 
 1.Go to **http://YourDomain.com/wp-admin/plugin-install.php?tab=upload**
 
