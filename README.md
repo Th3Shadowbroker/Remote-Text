@@ -2,7 +2,7 @@
 This plugin allows you to get every text(-file) from everywhere by using simple shortcoding !
 
 ### **How it works ?**
-After insalling it is very easy to handle by just using the following shortcode: 
+After installing it is very easy to handle by just using the following shortcode: 
 `[RemoteFile url='<FILE URL HERE !>']`
 
 ### **How to install ?**
