@@ -10,10 +10,10 @@ Installing Wordpress plugins is very easy:
 
 1.**Download** the **latest .zip-file** from the "Download"-directory or http://bit.ly/RemoteText.
 
-1.Go to **http://YourDomain.com/wp-admin/plugin-install.php?tab=upload**
+2.Go to **http://YourDomain.com/wp-admin/plugin-install.php?tab=upload**
 
-1.Select the downloaded file and upload it to your wordpress-installation.
+3.Select the downloaded file and upload it to your wordpress-installation.
 
-1.**Activate the plugin.**
+4.**Activate the plugin.**
 
-1.Have fun using the shortcode !
+5.Have fun using the shortcode !
